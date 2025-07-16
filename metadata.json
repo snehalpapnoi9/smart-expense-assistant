@@ -1,0 +1,8 @@
+{
+  "name": "Smart Expense Assistant",
+  "description": "Submit your expenses in seconds with AI-powered suggestions and receipt auto-parsing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
